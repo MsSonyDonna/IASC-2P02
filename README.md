@@ -4,4 +4,6 @@
 
 ![](Images/WindowImage.jpg)
 
+## BLOG
 
+[Continue Reading](blog)
