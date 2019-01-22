@@ -2,6 +2,6 @@
 
 ## about me
 
-! [] (Images/WindowImage.jpg)
+![](Images/WindowImage.jpg)
 
 
