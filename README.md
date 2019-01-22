@@ -6,4 +6,4 @@
 
 ## BLOG
 
-[Continue Reading](blog)
+[](blog)
