@@ -8,4 +8,4 @@ I am a current student of IASC, finishing up my Honours Degree.
 
 ## BLOG
 
-[ continue reading ](blog)
+consectetur adipiscing elit [ continue reading ](blog)
