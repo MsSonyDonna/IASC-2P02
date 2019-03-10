@@ -6,7 +6,7 @@ I am a extraordinarly creative person who is also a fulltime employee, mom, gran
 
 ## BLOG
 
-Can one really combine algorithms while mapping in Digital Scholarship? [ continue reading ](blog)
+Ramsay and Drucker's critique of ...  [ continue reading ](blog)
 
 
 ###### NOTES: <sub>Image retreived from https://www.google.com/search?q=digital+humanities&rlz=1CAEAQE_enCA819&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiD1djG1vbgAhWM3oMKHa9RCL0Q_AUIDigB&biw=1366&bih=610#imgrc=56MP2fu3wJ3SUM:</sub>
