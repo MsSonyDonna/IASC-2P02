@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-I am a extraordinarly creative person who is also a fulltime employee, mom, grandmother, and a current student of Interactive Arts and Sciences at Brock University upgrading my BA to an Honours Degree. I am quickly discovering Digital Scholarship is a fascinating field of study and one I hope to continue to pursue once I have achieved my full Honours.
+I am an extraordinarily creative person who is also a fulltime employee, mom, grandmother, and a current student of Interactive Arts and Sciences at Brock University upgrading my BA to an Honours Degree. I am quickly discovering Digital Scholarship is a fascinating field of study and one I hope to continue to pursue once I have achieved my full Honours.
 
 ![](Images/digital-humanities.jpg)
 
