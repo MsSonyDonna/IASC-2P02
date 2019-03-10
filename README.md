@@ -2,7 +2,7 @@
 
 I am a creative person who is also a fulltime employee, mom, grandmother, and a current student of IASC, finishing up my Honours Degree. I am quickly discovering Digital Humanities is a fascinating field of study and one I hope to pursue with continued studies past my BSc.
 
-![](Images/WindowImage.jpg)
+![](DigitalHumanites.jpg)
 
 ## BLOG
 
