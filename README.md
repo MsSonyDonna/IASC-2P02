@@ -1,6 +1,6 @@
 # ABOUT ME
 
-I am a creative person who is also a fulltime employee, mom, grandmother, and a current student of Interactive Arts and Sciences, upgrading to an Honours Degree. I am quickly discovering Digital Humanities is a fascinating field of study and one I hope to pursue with continued studies once I have achieved my Honours.
+I am a creative person who is also a fulltime employee, mom, grandmother, and a current student of Interactive Arts and Sciences, upgrading to an Honours Degree. I am quickly discovering Digital Scholarship is a fascinating field of study and one I hope to pursue with continued studies once I have achieved my Honours.
 
 ![](Digital Humanities.JPG)
 
