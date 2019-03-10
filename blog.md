@@ -1,6 +1,10 @@
 # Digital Scholarship Blog
 
-## So Algorithms in Digital Scholarship: Will it really work?
+## PROMPT: 
+
+Ramsay and Drucker's critique of Moretti should be taken to heart by digital humanists: any reliance on externally-produced data sets should be abolished in the ﬁeld. Instead, each digital humanist will show the interpretive methods used to produce their unique data sets, and no two scholars will ever use the same data to conduct their research. Doing so will allow digital scholarship to fully embrace its humanities background, foregrounding subjective experience above all else. Established datasets are for scientists, and they have no place in humanities research. All data should be interpretively created.
+
+## So Algorithms in Digital Scholarship: Will it really work? 
 
 There is much written concerning Scientific research versus research in Digital Scholarship. 
 
