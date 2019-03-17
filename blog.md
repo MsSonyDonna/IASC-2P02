@@ -30,5 +30,7 @@ Perazzini, Federica. “The English Gothic Novel: Theories and Praxis of Compute
 
 Ramsay, Stephen. “An Algorithmic Criticism.” Reading Machines: toward an Algorithmic Criticism. University of Illinois Press, 2012, pp. 1–17.
 
-TĂUT, Val Codrin1, codrin.taut@bcub. r. “Beyond the Tale of the ‘Two Cultures’: Filling the Gap between Algorithms and Interpretation.” ELearning & Software for Education, vol. 3, July 2017, pp. 101–104. EBSCOhost, doi:10.12753/2066-026X-17-188.Winter, Thomas Nelson, "Roberto Busa, S.J., and the Invention of the Machine-Generated Concordance" (1999). Faculty Publications, Classics and Religious Studies Department. 70. http://digitalcommons.unl.edu/classicsfacpub/70
+TĂUT, Val Codrin1, codrin.taut@bcub. r. “Beyond the Tale of the ‘Two Cultures’: Filling the Gap between Algorithms and Interpretation.” ELearning & Software for Education, vol. 3, July 2017, pp. 101–104. EBSCOhost, doi:10.12753/2066-026X-17-188.
+
+Winter, Thomas Nelson, "Roberto Busa, S.J., and the Invention of the Machine-Generated Concordance" (1999). Faculty Publications, Classics and Religious Studies Department. 70. http://digitalcommons.unl.edu/classicsfacpub/70
 
