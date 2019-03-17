@@ -18,7 +18,7 @@ As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanit
                                                                                      
 ## Works Cited                                                                                     
                                                                                      
-Alvarado, Rafael C. “The Digital Humanities Situation.” *Debates in the Digital Humanities*, >>dhdebates.gc.cuny.edu/debates/text/50.
+Alvarado, Rafael C. “The Digital Humanities Situation.” *Debates in the Digital Humanities*, dhdebates.gc.cuny.edu/debates/text/50.
 
 Hawkins, Richard A. “Use of Big Data in Historical Research.” *Big Data in the Arts and Humanities : Theory and Practice*, Taylor & Francis, 2018, pp. 77–87.
 
