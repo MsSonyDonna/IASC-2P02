@@ -6,7 +6,7 @@ As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanit
 
 ## So allowing Sciences in Digital Scholarship: Will it really work? 
 
-![](Images/JohnDurkinCoverPhoto.JPG)There is much written concerning Scientific research versus research in Digital Scholarship. As mentioned by Ramsay, where computers in humanities can be a welcome relief from the radical skepticism of contemporary humanistic thought. p.ix.
+<iframe style="width:250px; height: 350px; src="Images/JohnDurkinCoverPhoto.JPG"></iframe>There is much written concerning Scientific research versus research in Digital Scholarship. As mentioned by Ramsay, where computers in humanities can be a welcome relief from the radical skepticism of contemporary humanistic thought. p.ix.
 
 ![](Images/digital-humanities.jpg)
 <iframe style='width: 580px; height: 463px;' src='//voyant-tools.org/tool/Trends/?query=novel&corpus=3c6ed61edb2bcec5e52329dc5f99b8a7'></iframe>
