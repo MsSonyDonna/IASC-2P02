@@ -2,11 +2,11 @@
 
 ## Prompt: 
 
-|As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanities draws from a number of established disciplines and research methods. This is a terrible idea. Digital humanities research attempts to combine two things that are fundamentally incompatible: the sciences and the humanities. Empirical or scientiﬁc approaches believe in objective facts that stand on their own; humanities approaches believe that all truth exists from a subjective, human perspective. These two approaches are fundamentally at odds with each other, and they can never be combined. Give it up, dh!:
+|As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanities draws from a number of established disciplines and research methods. This is a terrible idea. Digital humanities research attempts to combine two things that are fundamentally incompatible: the sciences and the humanities. Empirical or scientiﬁc approaches believe in objective facts that stand on their own; humanities approaches believe that all truth exists from a subjective, human perspective. These two approaches are fundamentally at odds with each other, and they can never be combined. Give it up, dh!
 
 ## So allowing Science in Digital Scholarship: Will it really work? 
 
-|||**...not an object which stands by itself and which offers the same face to each reader in each period.** - *Hans Robert Jauss', "Horizon of Expections"*:
+|||**...not an object which stands by itself and which offers the same face to each reader in each period.** - *Hans Robert Jauss', "Horizon of Expections"*
 
 ### ABSTRACT:
 
