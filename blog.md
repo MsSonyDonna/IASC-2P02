@@ -6,7 +6,7 @@
 
 ## So allowing Scientific Methods in Digital Scholarship: Will it really work? 
 
-**...not an object which stands by itself and which offers the same face to each reader in each period.** - *Hans Robert Jauss' Horizon of expections"*
+**...not an object which stands by itself and which offers the same face to each reader in each period.** - *Hans Robert Jauss', "horizon of expections"*
 
 There is much written concerning Scientific research versus research in Digital Scholarship. As mentioned by Ramsay, where computers in humanities can be a welcome relief from the radical skepticism of contemporary humanistic thought. p.ix.
 
