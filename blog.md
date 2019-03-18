@@ -22,6 +22,8 @@
                                                                                      
 Alvarado, Rafael C. “The Digital Humanities Situation.” *Debates in the Digital Humanities*, dhdebates.gc.cuny.edu/debates/text/50.
 
+Christie, Alex. “Class January 15 2019.” Solving Problems through IASC. IASC 2P02 , 15 Jan. 2019, St. Catharines, Ontario
+
 Hawkins, Richard A. “Use of Big Data in Historical Research.” *Big Data in the Arts and Humanities : Theory and Practice*, Taylor & Francis, 2018, pp. 77–87.
 
 “Horizon of Expectation.” *Wikipedia*, Wikimedia Foundation, 13 Jan. 2019, en.wikipedia.org/wiki/Horizon_of_expectation.
