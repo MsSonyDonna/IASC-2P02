@@ -26,11 +26,15 @@ Another consideration we need to keep in mind is the ultimate purpose of our res
 
 ### Conclusion. 
 
-As already referenced by many scholars included in this blog, the use of scientific methods such as algorithms to mine data from corpora to prove new insights does not take away from the subjectiveness of the interpretation, nor limit the use of how one researches digital repositories and other literature. “To a humanist, computational technology is potentially tool, text, and metaphor (Alvarado).” Current research that addresses this debate also is seen in Perazzini’s work amongst others. Whereas Kirschenbaum poses the question, “Subjective phenomena subjective experience...is this where algorithms could pick out non subjective points amidst the subjective to verify claims or effects of data (Kirschenbaum)”; Federica has shown in her own research that algorithms do pick up key terms as it was with an specially designed algorithm in which four key terms that were of significant motifs of gothic novels in her corpora were independently found (Perazzini 109). 
+As already referenced by many scholars included in this blog, the use of scientific methods such as algorithms to mine data from corpora to prove new insights does not take away from the subjectiveness of the interpretation, nor limit the use of how one researches digital repositories and other literature. 
+
+>>“To a humanist, computational technology is potentially tool, text, and metaphor (Alvarado).” 
+
+Current research that addresses this debate also is seen in Perazzini’s work amongst others. Whereas Kirschenbaum poses the question, “Subjective phenomena subjective experience...is this where algorithms could pick out non subjective points amidst the subjective to verify claims or effects of data (Kirschenbaum)”; Federica has shown in her own research that algorithms do pick up key terms as it was with an specially designed algorithm in which four key terms that were of significant motifs of gothic novels in her corpora were independently found (Perazzini 109). 
 
   Stephen Ramsay believes science differs significantly from the humanities in that it seeks singular answers to the problems under the discussions (Ramsay 15), but is this necessarily true? Or is it rather as Val Codrin believes, that “the core argument is that the division between humanities and technoscience has to be broken down into two distinct levels. The first one concerns the exclusionary structure of the digital field, while the second encompasses the circulation and the institutional valuation of knowledge in Humanities (TĂUT 101).” Even within the use of technoscience, interpretation can still be subjective despite the aid scientific data can provide. I would suggest, instead of fighting against the natural tension humanities and science brings, let us embrace them and continue to explore ways to blend them together. 
 
-
+#### Exploring the eight articles with Voyant.
 
 <iframe style='width: 580px; height: 463px;' src='//voyant-tools.org/?corpus=7850383e0063fe0b27bb9c197f1a8b89'> </iframe>
 
