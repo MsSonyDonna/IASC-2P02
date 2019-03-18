@@ -14,9 +14,6 @@
 <iframe style='width: 580px; height: 463px;' src='//voyant-tools.org/tool/Trends/?query=novel&corpus=3c6ed61edb2bcec5e52329dc5f99b8a7'></iframe>
 -->
 
-<iframe style="width:650px; height: 750px; src="processing/empty-example/index.html"></iframe>
-
-
                                                                                      
 ## Works Cited                                                                                     
                                                                                      
@@ -41,4 +38,3 @@ Ramsay, Stephen. “An Algorithmic Criticism.” *Reading Machines: toward an Al
 TĂUT, Val Codrin1, codrin.taut@bcub. r. “Beyond the Tale of the ‘Two Cultures’: Filling the Gap between Algorithms and Interpretation.” *ELearning & Software for Education*, vol. 3, July 2017, pp. 101–104. EBSCOhost, doi:10.12753/2066-026X-17-188.
 
 Winter, Thomas Nelson, "Roberto Busa, S.J., and the Invention of the Machine-Generated Concordance" (1999). *Faculty Publications, Classics and Religious Studies Department*. 70. http://digitalcommons.unl.edu/classicsfacpub/70
-
