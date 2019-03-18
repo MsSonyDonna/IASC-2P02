@@ -6,7 +6,7 @@ I am an extraordinarily creative person who is also a fulltime employee, mom, gr
 
 ## BLOG
 
-**"A literary work is ** ...  [ continue reading ](blog)
+**"A literary work is  ...**  [ continue reading ](blog)
 
 
 ###### NOTES: <sub>Image retreived from https://www.google.com/search?q=digital+humanities&rlz=1CAEAQE_enCA819&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiD1djG1vbgAhWM3oMKHa9RCL0Q_AUIDigB&biw=1366&bih=610#imgrc=56MP2fu3wJ3SUM:</sub>
