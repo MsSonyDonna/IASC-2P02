@@ -28,7 +28,7 @@ Hawkins, Richard A. “Use of Big Data in Historical Research.” *Big Data in t
 
 Kirschenbaum, Matthew. “What Is Digital Humanities and What’s It Doing in English Departments?” *Debates in the Digital Humanities*, dhdebates.gc.cuny.edu/debates/text/38.
 
-Moretti, Franco. “Abstract Models for Literary History.” *Graphs, Maps, Trees*. Verso, 2005, pp. 67–93.
+Moretti, Franco. “Abstract Models for Literary History.” *Graphs, Maps, Trees*. Verso, 2003, pp. 67–93.
 
 Perazzini, Federica. “The English Gothic Novel: Theories and Praxis of Computer-Based Macroanalysis in Literary Studies.” *Big Data in the Arts and Humanities : Theory and Practice*, Taylor & Francis, 2018, pp. 101–113.
 
