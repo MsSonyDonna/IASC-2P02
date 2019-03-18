@@ -24,6 +24,8 @@ Alvarado, Rafael C. “The Digital Humanities Situation.” *Debates in the Digi
 
 Hawkins, Richard A. “Use of Big Data in Historical Research.” *Big Data in the Arts and Humanities : Theory and Practice*, Taylor & Francis, 2018, pp. 77–87.
 
+“Horizon of Expectation.” *Wikipedia*, Wikimedia Foundation, 13 Jan. 2019, en.wikipedia.org/wiki/Horizon_of_expectation.
+
 Kirschenbaum, Matthew. “What Is Digital Humanities and What’s It Doing in English Departments?” *Debates in the Digital Humanities*, dhdebates.gc.cuny.edu/debates/text/38.
 
 Moretti, Franco. “Abstract Models for Literary History.” *Graphs, Maps, Trees*. Verso, 2005, pp. 67–93.
