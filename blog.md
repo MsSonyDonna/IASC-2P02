@@ -22,6 +22,8 @@ Christie, Alex. “Class January 15 2019.” Solving Problems through IASC. IASC
 
 Drucker, Johanna. “Humanities Approaches to Graphical Display.” *DHQ: Digital Humanities Quarterly: Humanities Approaches to Graphical Display*, 2011, www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html.
 
+Hawkins, Richard A. “Use of Big Data in Historical Research.” *Big Data in the Arts and Humanities : Theory and Practice*, Taylor & Francis, 2018, pp. 77–87.
+
 “Horizon of Expectation.” *Wikipedia*, Wikimedia Foundation, 13 Jan. 2019, en.wikipedia.org/wiki/Horizon_of_expectation.
 
 Kirschenbaum, Matthew. “What Is Digital Humanities and What’s It Doing in English Departments?” *Debates in the Digital Humanities*, dhdebates.gc.cuny.edu/debates/text/38.
