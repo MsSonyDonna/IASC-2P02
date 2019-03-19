@@ -4,6 +4,9 @@
 
 |*As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanities draws from a number of established disciplines and research methods. This is a terrible idea. Digital humanities research attempts to combine two things that are fundamentally incompatible: the sciences and the humanities. Empirical or scientiﬁc approaches believe in objective facts that stand on their own; humanities approaches believe that all truth exists from a subjective, human perspective. These two approaches are fundamentally at odds with each other, and they can never be combined. Give it up, dh!*
 
+
+
+
 ### Stephen Ramsay's text
 ![test image size](Images/ramsaycloud.png){:height="75%" width="75%"}
 
@@ -15,7 +18,7 @@
 
 |The sciences versus humanities debate has been a long-standing from at least the early 1600’s when Galileo Galilei used his telescope to look at the night sky providing empirical evidence with what he witnessed. His observations began a schism between hard and soft science (Perazzini 112). Albeit there continues to be a natural tension between science and humanities, this doesn't necessarily make them incompatible. One can see this historically from the Galileo incident in 1609 throughout present day with such examples as Roberto Busa who started the planning of the Index Thomisticus in 1946 (Alvarado; Ramsay; Winter); Charles P. Snow with his talk *The Two Cultures and the Scientific Revolution* in 1959 (Alvarado;TĂUT 101) and current studies such as Federica Perazzini’s research in Gothic novels. Perhaps using science, technology, and scientific methods such as the use of algorithms to aid in Digital Humanities and their research is not such terrible idea after all. There are those who disagree, such as Rafael Alvarado when he states, 
 
->>>“...none of these groups...has successfully demonstrated to the wider community of humanists that there are essential and irreplaceable gains to be had by the application of digital tools to the project of interpreting (and reinterpreting) the human record for the edification of society (Alvarado).” 
+>>“...none of these groups...has successfully demonstrated to the wider community of humanists that there are essential and irreplaceable gains to be had by the application of digital tools to the project of interpreting (and reinterpreting) the human record for the edification of society (Alvarado).” 
 
 |So the question bodes to be asked: What would research look like without scientific data/methods involved? I suggest the research would be beyond overwhelming and unnecessarily cumbersome. Using scientific methods of research can be good because of tools available which provides a way to address the billions of bytes (Perazzini 104) of information available and also helps in collaborative research. Besides these factors, as new knowledge evolves, I believe the use of algorithms will help revisit old research with a new purpose and lens as well as continue to provide a means of present research as there becomes new resources of data to mine and address the infinite aspect of information.
 
