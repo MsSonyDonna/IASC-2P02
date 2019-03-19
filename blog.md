@@ -1,7 +1,7 @@
 # Digital Scholarship Blog
 
-|||![](Images/ramsaycloud.png)<!-- .element height="50%" width="50%" -->
-![test image size](Images/ramsaycloud.png){:height="50%" width="50%"}
+
+|||![test image size](Images/ramsaycloud.png){:height="75%" width="75%"}
 ## Prompt: 
 
 |*As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanities draws from a number of established disciplines and research methods. This is a terrible idea. Digital humanities research attempts to combine two things that are fundamentally incompatible: the sciences and the humanities. Empirical or scientiﬁc approaches believe in objective facts that stand on their own; humanities approaches believe that all truth exists from a subjective, human perspective. These two approaches are fundamentally at odds with each other, and they can never be combined. Give it up, dh!*
