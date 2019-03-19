@@ -4,7 +4,7 @@
 
 |*As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanities draws from a number of established disciplines and research methods. This is a terrible idea. Digital humanities research attempts to combine two things that are fundamentally incompatible: the sciences and the humanities. Empirical or scientiﬁc approaches believe in objective facts that stand on their own; humanities approaches believe that all truth exists from a subjective, human perspective. These two approaches are fundamentally at odds with each other, and they can never be combined. Give it up, dh!*
 
-|||### Ramsay
+### Ramsay
 |||![test image size](Images/ramsaycloud.png){:height="75%" width="75%"}
 
 ## So allowing Science in Digital Scholarship: Will it really work? 
@@ -19,7 +19,6 @@
 
 |So the question bodes to be asked: What would research look like without scientific data/methods involved? I suggest the research would be beyond overwhelming and unnecessarily cumbersome. Using scientific methods of research can be good because of tools available which provides a way to address the billions of bytes (Perazzini 104) of information available and also helps in collaborative research. Besides these factors, as new knowledge evolves, I believe the use of algorithms will help revisit old research with a new purpose and lens as well as continue to provide a means of present research as there becomes new resources of data to mine and address the infinite aspect of information.
 
-
 ### Humanities and Sciences argument.
 
 The humanities approach believes that all truth exists from a subjective, human perspective. Ultimately there is an infinite research potential as knowledge is ever changing, alongside our understanding. Alvarado believes “...when looking at the humanities it is meant to be with a lens towards new knowledge as we continue to learn more about the era the text, literature, artwork first evolved, published, created (Alvarado).”
@@ -28,7 +27,7 @@ I believe when Val Cordrin TĂUT suggests that “the Digital Humanities can be 
 
 A huge reason to embrace the use of these methods is due to the sheer volume of data to be explored in the field of Digital Humanities. According to Federica Perazzini “the big data revolution has been a major catalyst in changing the way the relationships within and among pieces of information are now understood (Perazzini 101).” Moretti spoke of the limitations of only graphing 200 novels out of the many thousands of novels written during the time (Moretti 67). Richard A. Hawkins lists many examples of text digitization encoding projects spanning the decades (Hawkins 77-85). Whereas his main focus is the use of big data in historical research he also discusses the massive about of information in current archived information (77). Through his own observations Moretti validated the need when it came to his own research while acknowledging his own need for relying completely on others work (Moretti 80). When Federica did her research on Gothic novels ultimately she only chose 174 (Perazzini 104) out of the 519 (103) novels published from 1764 to 1832 (104). 
 
-##### Algorithm trend within cited works
+#### Algorithm trend within cited works
 ![test image size](Images/algorithmcloud.png){:height="100%" width="100%"}
 
 Another consideration we need to keep in mind is the ultimate purpose of our research. Drucker believed visualization was important. That we need to create forms to understand what we are seeing when studying historical context and why seeing the graphs produced by these means is important. Ultimately, our goal is to think of the structure behind the words (Drucker; Christie). Adding to this perspective Alvarado claims there is a “group of statistical critics, extending from Father Busa and to Franco Moretti and Google, as well as other computational humanists who have been at it since the 1960 and who believe that counting words, applying the methods of computational linguistics, and observing patterns in large corpora will produce insights unreachable by mere reading (Alvarado).” 
@@ -43,7 +42,7 @@ Current research that addresses this debate also is seen in Perazzini’s work a
 
 Stephen Ramsay believes science differs significantly from the humanities in that it seeks singular answers to the problems under the discussions (Ramsay 15), but is this necessarily true? Or is it rather as Val Codrin believes, that “the core argument is that the division between humanities and technoscience has to be broken down into two distinct levels. The first one concerns the exclusionary structure of the digital field, while the second encompasses the circulation and the institutional valuation of knowledge in Humanities (TĂUT 101).” Even within the use of technoscience, interpretation can still be subjective despite the aid scientific data can provide. I would suggest, instead of fighting against the natural tension humanities and science brings, let us embrace them and continue to explore ways to blend them together. 
 
-#### Exploring the eight articles with Voyant.
+### Exploring the eight articles with Voyant.
 <iframe style='width: 580px; height: 463px;' src='//voyant-tools.org/?corpus=7850383e0063fe0b27bb9c197f1a8b89'> </iframe>
 
                                                                                      
