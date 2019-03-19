@@ -1,11 +1,11 @@
 # Digital Scholarship Blog
 
-##### Ramsay
-![test image size](Images/ramsaycloud.png){:height="75%" width="75%"}
-
 ## Prompt: 
 
 |*As Kirschenbaum, Alvarado, and Ramsay have variously argued, the digital humanities draws from a number of established disciplines and research methods. This is a terrible idea. Digital humanities research attempts to combine two things that are fundamentally incompatible: the sciences and the humanities. Empirical or scientiﬁc approaches believe in objective facts that stand on their own; humanities approaches believe that all truth exists from a subjective, human perspective. These two approaches are fundamentally at odds with each other, and they can never be combined. Give it up, dh!*
+
+|||### Ramsay
+|||![test image size](Images/ramsaycloud.png){:height="75%" width="75%"}
 
 ## So allowing Science in Digital Scholarship: Will it really work? 
 
@@ -20,7 +20,7 @@
 |So the question bodes to be asked: What would research look like without scientific data/methods involved? I suggest the research would be beyond overwhelming and unnecessarily cumbersome. Using scientific methods of research can be good because of tools available which provides a way to address the billions of bytes (Perazzini 104) of information available and also helps in collaborative research. Besides these factors, as new knowledge evolves, I believe the use of algorithms will help revisit old research with a new purpose and lens as well as continue to provide a means of present research as there becomes new resources of data to mine and address the infinite aspect of information.
 
 
-### Humanities and Scienes together.
+### Humanities and Sciences argument.
 
 The humanities approach believes that all truth exists from a subjective, human perspective. Ultimately there is an infinite research potential as knowledge is ever changing, alongside our understanding. Alvarado believes “...when looking at the humanities it is meant to be with a lens towards new knowledge as we continue to learn more about the era the text, literature, artwork first evolved, published, created (Alvarado).”
 
